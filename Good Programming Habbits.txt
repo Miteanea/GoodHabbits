@@ -1,0 +1,17 @@
+*** Invest time in stable requirements ( or implement incremental change policy, deliver final program in increments)
+
+*** Don't rush to programming, try out several designs first
+
+*** Use Pseudocode Programming Process (PPP)
+
+*** Defensive Programming
+
+*** Readable working solution first, performance measurements second, and optimisations last
+
+*** Keep Notes: 
+	Feature parking lot
+	Refactoring parking lot
+	Defect list
+	Simple measurements list ( nr of defects, lines of code, nr work hours, total euro spent) 
+
+*** Spend time to learn (1h / day min)
