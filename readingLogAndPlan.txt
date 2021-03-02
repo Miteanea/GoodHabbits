@@ -1,10 +1,12 @@
 [done] Code Complete (reading plan included at the end of the book) {source: 1}
 [done] Pragmatic Programmer (scan for future reading suggestions) {source: 1}
+[done] Conceptual Blockbusting: A Guide to Better Ideas { source: 2}
 
-[reading] Conceptual Blockbusting: A Guide to Better Ideas { source: 2}
+[reading] Structure and interpretation of computer programs {source: 1}
 
-[next] Structure and interpretation of computer programs
-[next]
+[next] 
+
+Rapid Application Development by James Martin
 
 ??? Figure out the next book 
 alternate between sources
