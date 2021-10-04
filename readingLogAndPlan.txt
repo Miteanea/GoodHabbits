@@ -6,6 +6,8 @@
 
 [next] 
 
+c# in depth
+
 Rapid Application Development by James Martin
 
 ??? Figure out the next book 
