@@ -1,6 +1,9 @@
 : let i=1 | g/<expression>/s//\=i/ | let i=i+1
 replace expression with variable incrementation
 
+: let i=1 | g/<expression>\(<positive lookahead arg>\)\@=/s//\=i/ | let i=i+1
+
+
 
 
 ====
